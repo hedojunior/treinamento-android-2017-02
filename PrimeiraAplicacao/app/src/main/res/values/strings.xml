@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimeiraAplicacao</string>
+    <string name="hedo">Hedo Junior</string>
+    <string name="secondactivity">SecondActivity</string>
+    <string name="telefone">Telefone</string>
+    <string name="ligar">Ligar</string>
+    <string name="tel_hint">51995556066</string>
+</resources>
