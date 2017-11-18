@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Troopers</string>
+    <string name="logo_da_afiliacao_do_trooper">Logo da afiliação do Trooper.</string>
+    <string name="imagem_do_trooper">Imagem do Trooper</string>
+    <string name="imagem_afiliacao_trooper">Imagem de afiliação do trooper</string>
+    <string name="add_trooper">Adicionar Trooper</string>
+    <string name="fav_trooper">Favoritar</string>
+    <string name="trooper_delete_msg">Tem certeza que deseja excluir este trooper?</string>
+    <string name="trooper_delete_title">Excluir Trooper</string>
+    <string name="nao">Não</string>
+    <string name="sim">Sim</string>
+    <string name="deleted_trooper_toast_msg">Trooper excluído</string>
+</resources>

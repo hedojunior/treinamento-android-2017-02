@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_text">20sp</dimen>
+    <dimen name="trooper_item_left_right_margin">15dp</dimen>
+    <dimen name="trooper_item_height">80dp</dimen>
+    <dimen name="separator_height">1dp</dimen>
+    <dimen name="trooper_image_width">140dp</dimen>
+    <dimen name="large_text">22sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="trooper_detail_left_padding">15dp</dimen>
+    <dimen name="trooper_detail_top_padding">25dp</dimen>
+</resources>
